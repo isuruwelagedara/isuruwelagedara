@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **welagedaraisuru@gmail.com**
 
-### Blogs posts
+### what I use for development my projects  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
